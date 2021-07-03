@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "FUSB301")(type "KiCad")(uri "${KIPRJMOD}/FUSB301.pretty")(options "")(descr ""))
+  (lib (name "OSHW_Small")(type "KiCad")(uri "${KIPRJMOD}/OSHW_Small.pretty")(options "")(descr ""))
+)

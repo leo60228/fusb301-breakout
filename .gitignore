@@ -1,0 +1,7 @@
+gerbers
+gerbers.zip
+*-backups
+__pycache__
+*.xml
+fp-info-cache
+*.csv

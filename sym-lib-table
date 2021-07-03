@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "FUSB301")(type "KiCad")(uri "${KIPRJMOD}/FUSB301.kicad_sym")(options "")(descr ""))
+)

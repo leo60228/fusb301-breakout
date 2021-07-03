@@ -1,0 +1,20 @@
+(footprint "JLC_Tooling_Hole" (version 20210424) (generator pcbnew) (layer "F.Cu")
+  (tedit 60D2210F)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 81f19efd-c592-48f3-80bf-8b30f228b277)
+  )
+  (fp_text value "JLC_Tooling_Hole" (at 0 1 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 99161c79-2b6c-411e-80b9-4958297623b9)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+    (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp f86d8efe-f717-4f56-aff7-22a32621e8af)
+  )
+  (fp_circle (center 0 0) (end 0.65 0) (layer "B.Mask") (width 0) (fill solid) (tstamp 0465ee27-97b8-4174-9d15-a4d003c2f0c9))
+  (fp_circle (center 0 0) (end 0.65 0) (layer "F.Mask") (width 0) (fill solid) (tstamp 5c4c7319-0e03-4243-9b9e-172dd15a6909))
+  (fp_circle (center 0 0) (end 0.7 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp c4f90bf3-81d0-4bf1-8a43-beeea102bdde))
+  (pad "" np_thru_hole circle (at 0 0) (size 1.152 1.152) (drill 1.152) (layers F&B.Cu *.Mask)
+    (clearance 0.124) (tstamp 24e03c5f-325a-44ff-bdbd-6bd33d0c0d29))
+)
